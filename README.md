@@ -62,7 +62,11 @@ collisions. On compare chaque mot avec les mots qui ont le même Hash Code et le
        
        
  # L'évolution du temps d'exécutins en fonction de la taille de données
- ![alt text]( "")
+ ![alt text](https://github.com/Simo1Goat/duplicate_detection/blob/c9f7d5f439b7f736082bb709d4a6ffcc73835544/Projet%20Algorithmique%20HABIBI%20MOHAMED/snapshots/executed_time.png "executed time for each algorithm")
+
+![alt text](https://github.com/Simo1Goat/duplicate_detection/blob/c9f7d5f439b7f736082bb709d4a6ffcc73835544/Projet%20Algorithmique%20HABIBI%20MOHAMED/snapshots/plot.png "evolution time")
+ 
+
        
        
        
