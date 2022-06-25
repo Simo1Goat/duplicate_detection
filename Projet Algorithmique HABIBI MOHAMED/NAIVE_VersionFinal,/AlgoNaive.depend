@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1610202023 source:c:\users\elitebook\documents\code blocks\algonaive\algonaive\main.c
+	"Set.h"
+	"distance.h"
+
+1610201263 source:c:\users\elitebook\documents\code blocks\algonaive\algonaive\distance.c
+	"Set.h"
+	"distance.h"
+
+1610141700 c:\users\elitebook\documents\code blocks\algonaive\algonaive\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stddef.h>
+	<ctype.h>
+
+1610192079 c:\users\elitebook\documents\code blocks\algonaive\algonaive\distance.h
+	"Set.h"
+
+1610193392 source:c:\users\elitebook\documents\code blocks\algonaive\algonaive\set.c
+	"Set.h"
+	"distance.h"
+
+1610455797 source:c:\users\elitebook\documents\code blocks\algonaive\algonaive\purge.c
+	"Set.h"
+	"distance.h"
+
+1610201263 source:c:\users\elitebook\documents\code_blocks\algonaive\distance.c
+	"Set.h"
+	"distance.h"
+
+1610141700 c:\users\elitebook\documents\code_blocks\algonaive\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stddef.h>
+	<ctype.h>
+
+1610192079 c:\users\elitebook\documents\code_blocks\algonaive\distance.h
+	"Set.h"
+
+1615050236 source:c:\users\elitebook\documents\code_blocks\algonaive\main.c
+	"Set.h"
+	"distance.h"
+	<time.h>
+
+1610455797 source:c:\users\elitebook\documents\code_blocks\algonaive\purge.c
+	"Set.h"
+	"distance.h"
+
+1610193392 source:c:\users\elitebook\documents\code_blocks\algonaive\set.c
+	"Set.h"
+	"distance.h"
+
+1610201263 source:c:\users\elitebook\documents\code_blocks\naive_versionfinal,habibi mohamed youssef el adnaoui\distance.c
+	"Set.h"
+	"distance.h"
+
+1610141700 c:\users\elitebook\documents\code_blocks\naive_versionfinal,habibi mohamed youssef el adnaoui\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stddef.h>
+	<ctype.h>
+
+1610192079 c:\users\elitebook\documents\code_blocks\naive_versionfinal,habibi mohamed youssef el adnaoui\distance.h
+	"Set.h"
+
+1615054753 source:c:\users\elitebook\documents\code_blocks\naive_versionfinal,habibi mohamed youssef el adnaoui\purge.c
+	"Set.h"
+	"distance.h"
+
+1610193392 source:c:\users\elitebook\documents\code_blocks\naive_versionfinal,habibi mohamed youssef el adnaoui\set.c
+	"Set.h"
+	"distance.h"
+
+1615054779 source:c:\users\elitebook\documents\code_blocks\naive_versionfinal,habibi mohamed youssef el adnaoui\main.c
+	"Set.h"
+	"distance.h"
+	<time.h>
+

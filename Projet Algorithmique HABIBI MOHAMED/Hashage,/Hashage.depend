@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1615060609 source:c:\users\elitebook\documents\code_blocks\hashage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+

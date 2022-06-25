@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1610486812 source:c:\users\elitebook\documents\code blocks\algonaive\tritas algo\tasversion3\distance.c
+	"distance.h"
+
+1610488778 c:\users\elitebook\documents\code blocks\algonaive\tritas algo\tasversion3\distance.h
+	"tas.h"
+
+1610488177 c:\users\elitebook\documents\code blocks\algonaive\tritas algo\tasversion3\tas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1610489770 source:c:\users\elitebook\documents\code blocks\algonaive\tritas algo\tasversion3\main.c
+	"tas.h"
+	"distance.h"
+
+1610490643 source:c:\users\elitebook\documents\code blocks\algonaive\tritas algo\tasversion3\purge.c
+	"tas.h"
+	"distance.h"
+
+1610488769 source:c:\users\elitebook\documents\code blocks\algonaive\tritas algo\tasversion3\set.c
+	"Tas.h"
+	"distance.h"
+
+1611136563 source:c:\users\elitebook\documents\code_blocks\tritas algo\tasversion3\distance.c
+	"distance.h"
+
+1611136533 c:\users\elitebook\documents\code_blocks\tritas algo\tasversion3\distance.h
+	"tas.h"
+
+1615023688 c:\users\elitebook\documents\code_blocks\tritas algo\tasversion3\tas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1615051003 source:c:\users\elitebook\documents\code_blocks\tritas algo\tasversion3\main.c
+	"tas.h"
+	"distance.h"
+	<time.h>
+
+1610490643 source:c:\users\elitebook\documents\code_blocks\tritas algo\tasversion3\purge.c
+	"tas.h"
+	"distance.h"
+
+1611141871 source:c:\users\elitebook\documents\code_blocks\tritas algo\tasversion3\set.c
+	"Tas.h"
+	"distance.h"
+
+1611136563 source:c:\users\elitebook\documents\code_blocks\tri_tas,youssef el adnaoui&habibi mohamed\distance.c
+	"distance.h"
+
+1611136533 c:\users\elitebook\documents\code_blocks\tri_tas,youssef el adnaoui&habibi mohamed\distance.h
+	"tas.h"
+
+1615023688 c:\users\elitebook\documents\code_blocks\tri_tas,youssef el adnaoui&habibi mohamed\tas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1615051003 source:c:\users\elitebook\documents\code_blocks\tri_tas,youssef el adnaoui&habibi mohamed\main.c
+	"tas.h"
+	"distance.h"
+	<time.h>
+
+1615053028 source:c:\users\elitebook\documents\code_blocks\tri_tas,youssef el adnaoui&habibi mohamed\purge.c
+	"tas.h"
+	"distance.h"
+
+1611141871 source:c:\users\elitebook\documents\code_blocks\tri_tas,youssef el adnaoui&habibi mohamed\set.c
+	"Tas.h"
+	"distance.h"
+
